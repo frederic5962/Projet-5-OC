@@ -1,0 +1,59 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    height: 100%;   
+    width: 100%;
+}
+
+ .image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+    width: 50%;
+    background-color: blueviolet;
+}
+ img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.content p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:30vh;
+    width: 100vw;
+    font-family: Arial, sans-serif;
+    color: blue;
+    font-size: 20px;
+}
+
+ul li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    width: 100vw;
+    font-family: Arial, sans-serif;
+    color: rgb(0, 255, 13);
+    font-size: 20px;
+    list-style-type: none;   
+}
+
+.lien a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    width: 100vw;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(255, 0, 157);
+}

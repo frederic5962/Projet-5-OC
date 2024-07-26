@@ -1,0 +1,8 @@
+$list-color: rgba(0, 123, 255) ;
+
+li {
+    color: $list-color;
+    padding-left: 10px;
+    margin-bottom: 15px;
+    list-style-type: none;
+}
